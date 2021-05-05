@@ -129,6 +129,7 @@
 | matcher                        | マッチャ
 | memory                         | メモリ
 | method                         | メソッド
+| modifier                       | 修飾子
 | monomorphization               | 単相化
 | move                           | ムーブ
 | mutability                     | ミュータビリティ
@@ -169,6 +170,7 @@
 | regression                     | リグレッション
 | release                        | リリース
 | (lockの) release               | 解放
+| reserved keyword               | 予約されたキーワード
 | return                         | 返す
 | return type                    | リターン型
 | return value                   | 戻り値
@@ -188,6 +190,7 @@
 | specialized                    | 特殊化された
 | standard library               | 標準ライブラリ
 | statement                      | 文
+| strict keyword                 | 厳格なキーワード
 | string                         | 文字列
 | string interpolation           | 文字列インターポーレーション
 | string slice                   | 文字列スライス
@@ -226,5 +229,6 @@
 | vector                         | ベクタ
 | version                        | バージョン
 | warning                        | 警告
+| weak keyword                   | 弱いキーワード
 | wildcard                       | ワイルドカード
 | wrapper                        | ラッパ
